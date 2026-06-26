@@ -26,14 +26,14 @@ requirements.txt: Project dependencies including streamlit, openai, httpx, and p
  ## How to Run
  Prerequisites Ensure you have Python 3.10+ installed on your system.
 
-## Installation
+### Installation
 
 Install the required dependencies:
 
     
     pip install -r requirements.txt
 
-## Configuration
+### Configuration
 
 Create a file named `.env` in the root directory.
 
@@ -42,7 +42,7 @@ Add your Groq **API** key to the file:
     
     GROQ_API_KEY=gsk_your_actual_key_here
 
-## Execution
+### Execution
 
 Launch the interactive web interface:
 
@@ -51,7 +51,7 @@ Launch the interactive web interface:
 
 This will open a local browser window where you can start generating copy.
 
-### Key Skills Demonstrated
+## Key Skills Demonstrated
 
 Dynamic Prompt Compilation: Managing variable injection for multi-platform output.
 
