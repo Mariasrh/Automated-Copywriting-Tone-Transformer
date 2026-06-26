@@ -1,4 +1,4 @@
-Automated Copywriting & Tone Transformer
+### Automated Copywriting & Tone Transformer
 
 This project is a dynamic orchestration engine designed to automate the generation of professional marketing copy. Developed as part of the DecodeLabs Generative AI Industrial Training Kit (**2026**), it enables users to transform raw product descriptions into platform-specific content (LinkedIn, Instagram, Email) by precisely tuning creative hyper-parameters like Temperature and Top_P.
 
@@ -14,6 +14,7 @@ Parameter Control: Offers granular control over model creativity via adjustable 
 
 Scalable Pipeline: Designed to build scalable content pipelines through pure inference logic.
 
+
 ### Project Structure
 
 app.py: The core Streamlit application providing the interactive user interface and asynchronous **API** orchestration.
@@ -22,7 +23,8 @@ requirements.txt: Project dependencies including streamlit, openai, httpx, and p
 
 .gitignore: Ensures secure handling of environment variables (like **API** keys) and excludes temporary system files.
 
-How to Run ## Prerequisites Ensure you have Python 3.10+ installed on your system.
+ ## How to Run
+ Prerequisites Ensure you have Python 3.10+ installed on your system.
 
 ## Installation
 
